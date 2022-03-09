@@ -1,2 +1,2 @@
-INSERT INTO users(username) VALUES('Axel');
-INSERT INTO users(username) VALUES('Christian');
+INSERT INTO users(name) VALUES('Axel');
+INSERT INTO users(name) VALUES('Christian');
